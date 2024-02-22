@@ -1,0 +1,13 @@
+correct_dependency_ids: {}
+dependencies: []
+services:
+- source: /runtime/services/tables.yml
+  client_config: {}
+  server_config: {}
+package_name: YEE_PING
+allow_embedding: false
+name: Clone of YEE PING
+runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
+  server_spec: null}
+startup_form: Form1
+renamed: true
