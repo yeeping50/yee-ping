@@ -1,4 +1,3 @@
-from PyPDF2 import PdfReader
 import anvil.pdf
 from anvil.pdf import PDFRenderer
 
