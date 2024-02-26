@@ -70,8 +70,8 @@ components:
         properties: {text: 'Thank you of making payment to XXX Company. Please be
             remind that our preferred bank in method is via the online banking transfer
             into ABC Bank Account under the account number of XXX-XX-XXXX. For any
-            further inquiry, kindly Whatsapp to Ms XXX at (012-XXX XXXX) and we will
-            response to your inquiry asap.'}
+            further inquiry, kindly email to me at yeeping50@hotmail.com and I will
+            reply to you asap.'}
         type: Label
         layout_properties: {grid_position: 'FTLTBW,CFDLAG'}
       - name: image_2
